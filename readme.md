@@ -2,6 +2,9 @@
 ![bower](https://img.shields.io/bower/v/lg-video.js.svg)
 ![npm](https://img.shields.io/npm/v/lg-video.js.svg)
 
+# Forked from https://github.com/sachinchoolur/lg-video.js for use at CCA
+Includes `autoplayFirstVideo` setting to disable autoplaying videos on lightgallery open.
+
 # Video module for [lightgallery.js](http://sachinchoolur.github.io/lightgallery.js/)
 Full featured javascript gallery. Zero dependencies.
 ![lightgallery](https://raw.githubusercontent.com/sachinchoolur/lightgallery.js/gh-pages/lightgallery.png)
